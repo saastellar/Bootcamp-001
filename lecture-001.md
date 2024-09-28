@@ -13,6 +13,7 @@ By,
 [Hosam Al-Hamwi](https://github.com/hosamalhamwi)
 
 # **<u>Lecture #001 📌</u>**
+https://app.affine.pro/workspace/799905cd-0731-452f-83cc-1c7bd7268612/ZNzJsqLi2MnZz2r_uDRGk
 
 1- How are web applications working?
 

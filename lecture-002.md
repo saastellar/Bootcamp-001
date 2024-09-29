@@ -1,6 +1,6 @@
 # Lecture #002 📌
 
-### **\<u>JavaScript: Variables, Data Types, and Data Manipulation\</u>**
+### **<ins>JavaScript: Variables, Data Types, and Data Manipulation</ins>**
 
 ***
 

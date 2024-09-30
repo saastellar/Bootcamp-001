@@ -1,6 +1,6 @@
 # Lecture #003 📌
 
-# **\<u>Lecture 3: Building a Simple API Server Using JavaScript Objects and Arrays\</u>**
+# **<ins>Lecture 3: Building a Simple API Server Using JavaScript Objects and Arrays</ins>**
 
 In this lecture, we will create a simple API server using **Node.js** and **Express**. We will manage user data using JavaScript objects and arrays, demonstrating basic CRUD operations (Create, Read, Update, Delete).
 
@@ -26,7 +26,7 @@ In this lecture, we will create a simple API server using **Node.js** and **Expr
 
 ![](assets/nukubILx0KDMIvVFrk-OX96S3tAiDR5H_OD_cMkDoKE=.png)
 
-**\<u>LIVE CODE\</u>**
+**<ins>LIVE CODE</ins>**
 
 ```javascript
 
